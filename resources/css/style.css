@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Open+Sans:ital,wght@0,400;0,700;1,500&family=Roboto:wght@400;700&display=swap');
+
+.navbarStyle {
+    background-color: #f6bd60 ;
+}
+
+.body {
+    background-color:#f7ede2;
+}
+
+.title {
+    color:#84a59d;
+    font-family: 'Lugrasimo', cursive;
+}
+
+.paragraph {
+    color:#f28482
+}
+
+.footer {
+    background-color:rgb(35, 36, 35);
+    color:white
+}
+
+.prodotto {
+    background-color:#f28482  
+}
